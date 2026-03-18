@@ -32,10 +32,10 @@ I focus on solving real business problems using Machine Learning, Decision Scien
 ---
 
 ### 🔭 Current Focus
-I am currently working on **Decision Science** projects, quantifying the business impact of logistics performance (check out my **Olist Project** pinned below! 👇).
+I am currently working on **Decision Science** projects, quantifying the business impact of logistics performance (check out my **VISTA Project** pinned below! 👇).
 
 ---
 
 ### 📫 Let's Connect
 * LinkedIn: www.linkedin.com/in/martim-gomes-595a88361
-* Portfolio: https://github.com/martimlvg/data-analyse-and-present.git
+* Portfolio: https://github.com/martimlvg/vista.git
